@@ -1,0 +1,26 @@
+{
+  "name": "demo_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilpreet-47/demo_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dilpreet-47/demo_backend/issues"
+  },
+  "homepage": "https://github.com/Dilpreet-47/demo_backend#readme",
+  "devDependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.3",
+    "nodemon": "^3.1.10"
+  }
+}
